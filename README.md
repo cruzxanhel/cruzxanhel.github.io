@@ -7,3 +7,4 @@ Data Analyst with expertise in SQL, Python, and data visualization (Tableau, Exc
 ## Education
 - B.A, Data Science | University of California, Berkeley (_Nov 2025_)
   
+## Projects
