@@ -22,11 +22,7 @@ Thanks for stopping by! I'm Angel, a data scientist with a passion for leveragin
 
 <table>
   <thead align="center">
-    <tr>
-
-      <td><b>Experience</b></td>
-      <td><b>Tech Stack</b></td>
-    </tr>
+    
   </thead>
   <tbody>
     <tr>
