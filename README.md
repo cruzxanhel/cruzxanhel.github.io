@@ -5,7 +5,19 @@
 ## Education
 - B.A, Data Science | University of California, Berkeley (_Nov 2025_)
   
-## Projects
+# Angel Cruz, Data Scientist | Aspiring Dentist
+
+<p>
+<a href="https://yourwebsite.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/-My--Homepage-2e8b57?logo=nones&style=for-the-badge" /></a>
+<a href="https://medium.com/@angelcruz" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/angel-cruz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> Hey there!
+![](https://komarev.com/ghpvc/?username=AngelCruz&label=Visitor)
+
+Thanks for stopping by! I'm Angel, a data scientist with a passion for leveraging analytics and machine learning to drive impactful decision-making. While my current expertise lies in data science, my long-term goal is to transition into dentistry, combining data-driven insights with healthcare.
+
 ## My Tech Stack
 
 <table>
@@ -31,3 +43,12 @@
       </td>
     </tr>
     <tr>
+      <td>🌱 Learning</td>
+      <td>
+        <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-d6522d?style=flat-square&logo=pytorch&logoColor=white" height="27"/></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-45AA44?style=flat-square&logo=mongodb&logoColor=white" height="27"/></a>
+        <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="27"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
