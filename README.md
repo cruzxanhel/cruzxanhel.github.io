@@ -5,4 +5,6 @@
 ## Education
 - B.A, Data Science | University of California, Berkeley (December 2025)
   
+# Projects
 
+-
