@@ -10,7 +10,7 @@
 <p>
 <a href="https://yourwebsite.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/-My--Homepage-2e8b57?logo=nones&style=for-the-badge" /></a>
 <a href="https://medium.com/@angelcruz" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/angel-cruz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/angel-cruz-78616021b/details/skills/edit/forms/new/?profileFormEntryPoint=PROFILE_SECTION" /></a>
 </p>
 
 <img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="30"/> Hey there!
