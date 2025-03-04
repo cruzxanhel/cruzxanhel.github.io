@@ -43,12 +43,6 @@ Thanks for stopping by! I'm Angel, a data scientist with a passion for leveragin
       </td>
     </tr>
     <tr>
-      <td>🌱 Learning</td>
-      <td>
-        <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-d6522d?style=flat-square&logo=pytorch&logoColor=white" height="27"/></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-45AA44?style=flat-square&logo=mongodb&logoColor=white" height="27"/></a>
-        <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="27"/></a>
-      </td>
-    </tr>
+  
   </tbody>
 </table>
