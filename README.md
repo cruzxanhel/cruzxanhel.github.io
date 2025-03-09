@@ -6,6 +6,7 @@
 - B.A, Data Science | University of California, Berkeley (December 2025)
   
 ## Projects
+Automated Swing Trading Bot
 - Developed a Python-based trading bot that automates swing trading using Alpaca API, retrieving real-time stock data and executing trades based on technical indicators.
 - Implemented Simple Moving Averages (SMA), Relative Strength Index (RSI), and MACD to generate buy/sell signals.
 - Automated data collection with Alpaca’s StockHistoricalDataClient, analyzing stock trends over a 100-day period.
