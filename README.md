@@ -17,4 +17,4 @@
 - Monitored real-time stock movements for assets like AAPL, MSFT, TSLA, and AMZN, integrating results into a data-driven decision-making framework.
 
 ## Publications
-- Angel Cruz. (March 8 2025).[Automating Swing Trades with Python and Alpaca API](https://medium.com/@cruzangel200311/automating-swing-trades-with-python-and-alpaca-api-e846e814e6a3)
+- Angel Cruz. (March 8th 2025). [Automating Swing Trades with Python and Alpaca API](https://medium.com/@cruzangel200311/automating-swing-trades-with-python-and-alpaca-api-e846e814e6a3)
